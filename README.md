@@ -6,3 +6,5 @@ The Solutions to the Code forces Questions.
 2. 71A Way Too Long Words.
 3. 141A Amusing Joke.
 4. 236A Boy or Girl
+5. 272A Dima and Friends.
+6. 450A Jzzhu and Children
